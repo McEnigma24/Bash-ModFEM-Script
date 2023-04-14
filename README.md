@@ -34,6 +34,6 @@ Teraz kamień milowy pracy z ModFEM, wisienka na torcie.
 -/work_speed_up/run_me.sh ---> wszystko co wcześniej tylko jeszcze lepiej i przyjemniej. Teraz jako 1 parametr podajemy liczbę adaptacji, do której ModFEM powoli dojdzie i na bieżąco pokaże dane oraz zapisze wersje oryginalną i przeanalizowaną do katalogu ~/DATA. ./run_me.sh 3 zacznie od 0, potem 1,2,3. Tak samo jak wcześniej jak najbardziej można modyfikować param_analize.sh i from_folder_to_one_big_folder_modfem_prism_std.sh na aktualne potrzeby. Jak na razie największe ułatwienie.
 
 Chcesz dane do wykresów? 
-Na wybranych plikach odpalasz ./run_me.sh
-Wszystko czego potrzebujesz znajdziesz w folderze ~/DATA
-Pobierasz cały folder na pulpit i rozkoszujesz się prostotą wykonanego zadania
+1. Na wybranych plikach odpalasz ./run_me.sh
+2. Wszystko czego potrzebujesz znajdziesz w folderze ~/DATA
+3. Pobierasz cały folder na pulpit i rozkoszujesz się prostotą wykonanego zadania
