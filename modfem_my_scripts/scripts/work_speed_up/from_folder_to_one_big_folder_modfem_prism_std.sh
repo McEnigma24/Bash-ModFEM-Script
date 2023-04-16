@@ -1,6 +1,7 @@
 #!/bin/bash
 
-path=~/ModFEM/bin_cmake/wojciech_mackowiak_nompi_none_gcc_g++/MOD_FEM_heat_prism_std
+imie_nazwisko=$(cat imie_nazwiko_config)
+path=~/ModFEM/bin_cmake/"$imie_nazwisko"_nompi_none_gcc_g++/MOD_FEM_heat_prism_std
 dest=~/DATA
 
 main_path=$PWD
