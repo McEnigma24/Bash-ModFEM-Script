@@ -7,7 +7,7 @@ B. Nadaj każdemu skryptowi prawo od wykonania ---> chmod +x make_modfem.sh    i
 --- Wszytkie skrypty w katalogu modfem_my_scripts i copy_dat_jk.sh, create_folder.sh ---
 
 -------------
-Część główna
+### Część główna
 1. Zamysł jest taki, że pobieracie sobie folder modfem_my_scripts i skrypty create_folder.sh, copy_dat_jk.sh na Honorate do folderu ~/ (root)
 
 2. Jak tworzysz nowy folder to używasz skryptu ./create_folder.sh i automatycznie wszystkie potrzebne pliki są kopiowane
